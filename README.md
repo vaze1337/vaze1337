@@ -1,3 +1,3 @@
 - 👋 Hi, I’m vaze
-- 🌱 I’m currently learning Python c++
+- 🌱 I’m currently learning Python C++
 - 📫 How to reach me on discord vaze#0001
